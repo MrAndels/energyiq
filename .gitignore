@@ -1,5 +1,15 @@
+# Entorno virtual
 venv/
+
+# Archivos temporales de Python
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
+
+# Variables de entorno
 .env
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Datasets procesados
+data/processed/
