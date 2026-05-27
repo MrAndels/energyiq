@@ -13,3 +13,6 @@ __pycache__/
 
 # Datasets procesados
 data/processed/
+
+# Modelos entrenados
+models/
